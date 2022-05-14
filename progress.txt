@@ -1,4 +1,4 @@
-saat 19:30 eğitim tamamlandı hackaton başladı
+saat 19:30 eğitim tamamlandı hackaton başladı. github reposu oluşturuldu. form dolduruldu
 
 saat 21:00 mentörler ile görüşüldü. proje önerisi getirilen sistemin hedef kitlesinin belirlenmesi kararlaştırtıldı. sistem içindeki biletlerin nft olması fikri oluştu. türkiye özelinden çıkıp dünya geneline yayılması gerektiği düşünüldü.
 
@@ -10,6 +10,6 @@ saat 00:00 mentörler ile görüşüldü. gençler için birden çok alana girme
 
 saat 01:00 tarihi mekanların varlıklarının kayıtları blok zincir ile tutulmasıyla güvence altına alınmaları tasarlandı. böylece mevcut mekanlar yıkılsa bile bu kayıtlar blokzincir ile tutulmuş olacak. future work farklı tarihlerin kayıtlarının tarihi belgelere dayandırılarak tutulması böylece verinin  güvenirliliğinin arttırılması.
 
-saat 02:00 mentörler ile görüşüldü. tasarımlar araştırılmaya başlandı. web3py ile test ağlarının ne olduğu araştırıldı. iz sürme ve veri sahteciliğinin önüne geçilmesi konuları dikkate alındı. python kullanarak yapılan blokzincir uygulamalrı incelendi
+saat 02:00 mentörler ile görüşüldü. tasarımlar araştırılmaya başlandı. web3py ile test ağlarının ne olduğu araştırıldı. iz sürme ve veri sahteciliğinin önüne geçilmesi konuları dikkate alındı. python kullanarak yapılan blokzincir uygulamalrı incelendi.
 
-saat 04:00 commit yapıldı çizimler devam ediyor metaverse ortmaına aktarma işlemleri başladı. blokzincir algoritması düşünüldü.
+saat 04:00 commit yapıldı çizimler devam ediyor metaverse ortmaına aktarma işlemleri başladı. blokzincir algoritması düşünüldü.  diğer takımlar ile fikir alışverişi yapıldı network sağlandı.
