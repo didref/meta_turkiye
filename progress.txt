@@ -29,3 +29,6 @@ saat 16:00 mentörler ile görüşüldü mevcut durum hakkında bilgi alındı. 
 saat 18:00 kod üzerinde çalışılıyor. bir yandan sunum hazırlanacak
 
 saat 20-24:00 hardhat metamask EVM kullanılarak lokal bilgisayarda çalıştırıldı. remix ethereum sitesi kullanıldı solidty anlaşılmaya çalışıldı owner durumu kullanıldı. react js ile basit bir file input alan kod eklendi. videoya başlandı
+
+
+saat 00:00-02:00 mentörler ile görüşüldü ERC721 openzeplin wizard araştırıldı. blokchain ile büyü kdoya gönderiminin nasıl olduğu araştırıldı. kod ve sunum üzerinde çalışıldı. video editine başlandı
