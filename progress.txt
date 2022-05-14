@@ -10,6 +10,18 @@ saat 00:00 mentörler ile görüşüldü. gençler için birden çok alana girme
 
 saat 01:00 tarihi mekanların varlıklarının kayıtları blok zincir ile tutulmasıyla güvence altına alınmaları tasarlandı. böylece mevcut mekanlar yıkılsa bile bu kayıtlar blokzincir ile tutulmuş olacak. future work farklı tarihlerin kayıtlarının tarihi belgelere dayandırılarak tutulması böylece verinin  güvenirliliğinin arttırılması.
 
-saat 02:00 mentörler ile görüşüldü. tasarımlar araştırılmaya başlandı. web3py ile test ağlarının ne olduğu araştırıldı. iz sürme ve veri sahteciliğinin önüne geçilmesi konuları dikkate alındı. python kullanarak yapılan blokzincir uygulamalrı incelendi.
+saat 02:00 mentörler ile görüşüldü. tasarımlar araştırılmaya başlandı. web3py ile test ağlarının ne olduğu araştırıldı. iz sürme ve veri sahteciliğinin önüne geçilmesi konuları dikkate alındı. python kullanarak yapılan blokzincir uygulamaları incelendi.
 
 saat 04:00 commit yapıldı çizimler devam ediyor metaverse ortmaına aktarma işlemleri başladı. blokzincir algoritması düşünüldü.  diğer takımlar ile fikir alışverişi yapıldı network sağlandı.
+
+saat 06:00 çizimlere devam edildi. nft için gösterilecek eserler seçildi
+
+saat 08:00 mentörler ile görüşüldü. solidty ve mongodb ile decentrilized verinin tutulmasının daha kolay olduğu öğrenildi. avax ve ethereum hakkında bilgi alındı
+
+saat 10:00 cizimlere devam. gereksiz fazlalıklar silindi türkiye haritası üzerine istanbul uydu görüntüsü bulundu ve eklendi. eserler buna göre resize edilmeye başlandı.
+
+saat 12:00 öğle yemegi sonrası harita üzerine türkiye bayrağı eklendi. insan modelleri open source sitelerden bulundu ve eklendi. arkeologlara ve tarhiçilere özel lisans benzeri nft biletler çıkarılması fikri bulundu. böylece yetkili kişiler yapı ile ilgili değşiklik yapabilecekler. bununla ilgili bir konsensuz olması gerektiği kararlaştırıldı
+
+saat 14:00 tasarım içindeki eserlere nft eserler eklendi. tasarım tamamlandı. bir yandan koda devam edildi.
+
+saat 16:00 mentörler ile görüşüldü mevcut durum hakkında bilgi alındı. sunum için çizim programından video alınması kararlaştırıldı. çizimler google drive üzerine atıldı ve read me eklendi.
