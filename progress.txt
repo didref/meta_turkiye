@@ -1,3 +1,15 @@
 saat 19:30 eğitim tamamlandı hackaton başladı
-saat 21:00 mentörler ile görüşüldü. proje önerisi getirilen sistemin hedef kitelnin belirlenmesi kararlaştırtıldı. sistem içindeki biletlerin nft olması fikri oluştu. türkiye özelinden çıkıp dünya özeline yayılması gerektiği düşünüldü.
-saat 22:00 tükiye de kültür ve turizm bakanlığının bu konuda çalışması olup olmadığı incelendi.
+
+saat 21:00 mentörler ile görüşüldü. proje önerisi getirilen sistemin hedef kitlesinin belirlenmesi kararlaştırtıldı. sistem içindeki biletlerin nft olması fikri oluştu. türkiye özelinden çıkıp dünya geneline yayılması gerektiği düşünüldü.
+
+saat 22:00 tükiye de kültür ve turizm bakanlığının bu konuda çalışması olup olmadığı incelendi. kayda değer bir şey görülmedi. dünyada louvre müzesi, kolezyum, akropolis gibi yerlerin tekil olarak uyarlandığı görüldü. bunları beraber içeren genel bir yapı olmadığı görüldü.
+
+saat 23:00 hedef kitle gençler ve gelir seviyesi yüksek kişiler olarak belirlendi. gençlere hitab etmesi için düşük bütçeli ntf tabanlı sergi biletleri ve metaverse evreninde sahiplenmek üzere minyatür nft maketler olması tasarlandı. gelir düzeyi yüksek kişiler için sergi salonlarında sergilenen eserlerin satşa sunulması tasarlandı. bu sergi salonu ve sanatçılar için gelir modeli olarak ön görülmektedir.
+
+saat 00:00 mentörler ile görüşüldü. gençler için birden çok alana girmeyi sağlayan müze kart benzeri nft bilet tasarlandı. future work olarak dünya başkentleri ve türkiyenin diğer şehirlerinin eklenmesi ön görüldü. meknalar içinde mekan ruhuna uygun eserler sergilenecek.
+
+saat 01:00 tarihi mekanların varlıklarının kayıtları blok zincir ile tutulmasıyla güvence altına alınmaları tasarlandı. böylece mevcut mekanlar yıkılsa bile bu kayıtlar blokzincir ile tutulmuş olacak. future work farklı tarihlerin kayıtlarının tarihi belgelere dayandırılarak tutulması böylece verinin  güvenirliliğinin arttırılması.
+
+saat 02:00 mentörler ile görüşüldü. tasarımlar araştırılmaya başlandı. web3py ile test ağlarının ne olduğu araştırıldı. iz sürme ve veri sahteciliğinin önüne geçilmesi konuları dikkate alındı. python kullanarak yapılan blokzincir uygulamalrı incelendi
+
+saat 04:00 commit yapıldı çizimler devam ediyor metaverse ortmaına aktarma işlemleri başladı. blokzincir algoritması düşünüldü.
