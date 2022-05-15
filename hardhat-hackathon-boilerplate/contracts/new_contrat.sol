@@ -15,7 +15,7 @@ contract Vproxy is Data {
   }
 
   modifier onlyOwner{
-    require (_owner == msg.sender,"Vproxy: Caller was not owner");
+    require (_owner == msg.sender,"Vproxy: Caller was not owner check your permissions");
     _;
   }
 
@@ -23,12 +23,12 @@ contract Vproxy is Data {
     bool successCall = false;
     bytes memory retData;
     (successCall, retData) = _contractAddress.delegatecall(msg.data);
-    require(successCall, "Proxy: Internal call was failed");
+    require(successCall, "Proxy: Internal call was failed!");
   }
 
 
   function updateContractAddress(address _newAddress) external onlyOwner{
-    require(_newAddress != address(0), "Invalid address, failed to update addresss");
+    require(_newAddress != address(0), "Invalid address, failed to update addresss!");
 
     _contractAddress = _newAddress;
   }
